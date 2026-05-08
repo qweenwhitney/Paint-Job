@@ -113,7 +113,7 @@ Parameters:
 roomNumber is the number of the room currently being entered.
 
 Preconditions:
-roomNumber is a valid room number.
+Room Number is a valid room number.
 
 Postconditions:
 Returns square footage that is 0 or greater.
